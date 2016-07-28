@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hello!
+
+My name is Garderp, I'm 25 years old and I'm new to programming.
